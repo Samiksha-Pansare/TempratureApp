@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TempratureApp/static/css/main.657375fd.chunk.css",
+    "main.js": "/TempratureApp/static/js/main.82e6d03e.chunk.js",
+    "main.js.map": "/TempratureApp/static/js/main.82e6d03e.chunk.js.map",
+    "runtime-main.js": "/TempratureApp/static/js/runtime-main.72253d24.js",
+    "runtime-main.js.map": "/TempratureApp/static/js/runtime-main.72253d24.js.map",
+    "static/js/2.5cb82fbe.chunk.js": "/TempratureApp/static/js/2.5cb82fbe.chunk.js",
+    "static/js/2.5cb82fbe.chunk.js.map": "/TempratureApp/static/js/2.5cb82fbe.chunk.js.map",
+    "static/js/3.ff4039cb.chunk.js": "/TempratureApp/static/js/3.ff4039cb.chunk.js",
+    "static/js/3.ff4039cb.chunk.js.map": "/TempratureApp/static/js/3.ff4039cb.chunk.js.map",
+    "index.html": "/TempratureApp/index.html",
+    "static/css/main.657375fd.chunk.css.map": "/TempratureApp/static/css/main.657375fd.chunk.css.map",
+    "static/js/2.5cb82fbe.chunk.js.LICENSE.txt": "/TempratureApp/static/js/2.5cb82fbe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TempratureApp/static/media/warm.e66d3265.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72253d24.js",
+    "static/js/2.5cb82fbe.chunk.js",
+    "static/css/main.657375fd.chunk.css",
+    "static/js/main.82e6d03e.chunk.js"
+  ]
+}
